@@ -1,0 +1,8 @@
+# Telegram String Session Generator Bot
+
+This bot helps users generate Pyrogram string sessions easily via Telegram.
+
+## Setup
+
+1. Fill in your API_ID, API_HASH, and BOT_TOKEN in `string_generator_bot.py`.
+2. Install dependencies:
